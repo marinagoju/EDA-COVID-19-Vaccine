@@ -1,5 +1,5 @@
 ![imagen](https://github.com/marinagoju/EDA-COVID-19-Vaccine/blob/main/src/data/vacuna.jpg)
-# <div align="center">**Efectividad de la vacuna de ARNm contra el SARS-Cov-2**</div> :syringe:
+# <div align="center">**Efectividad de la vacuna de ARNm contra el SARS-Cov-2**</div>:syringe:
 
 Este estudio tiene por objetivo valorar la efectividad de la vacuna de la vacuna de ARN mensajero administrada contra la SARS-Cov-2. Para ello estudiaremos la evolucion de la COVID-19 en relación a la campaña de vacunación implementada en España. Nos preguntamos: *¿Cuáles son los cambios que se aprecian desde el inicio de la administración de las vacunas?*  
 
