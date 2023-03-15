@@ -5,7 +5,7 @@ En este estudio analizaremos la efectividad de la vacuna de ARNm contra la COVID
 
 La población de estudio abarca a toda la población residente en España en el periodo de tiempo comprendido desde la detección del primer caso COVID en el país (31/01/2020), hasta la entrada en vigor de la nueva estategia de vigilancia (28/03/2022), por la que solo se notifican casos en individuos de 60 años o más.
 
-## 1. Metodología de la investigación
+## Metodología de la investigación
 dsdsadsadsa
 
 ### 2. Análisis de datos  
