@@ -15,8 +15,7 @@ Por ello, con motivo de arrojar un poco de luz sobre la cuestión y aprovechando
 
 El estudio que se expone es un estudio de tipo descriptivo retrospectivo, pues nos limitamos a recoger y analizar datos sin influir en el fenómeno de estudio. Asimismo, los datasets sobre los que trabajamos refieren información relativa a momentos anteriores al inicio de su análisis.
 
-La hipótesis preliminar que se plantea es la siguiente:  
-**H 0**: *La vacunación de ARNm es efectiva contra el SARS-Cov-2.*
+La hipótesis preliminar que se plantea es la siguiente:  **H0**: *La vacunación de ARNm es efectiva contra el SARS-Cov-2.**
 
 Los datos utilizados en esta investigación provienen de las estadísticas y reportes publicados por las instituciones oficiales de España. Trabajamos principalmente con cuatro datasets:
 
@@ -29,8 +28,6 @@ Los datos utilizados en esta investigación provienen de las estadísticas y rep
 - **Datos de los tipos de vacunas administradas y entregadas a cada comunidad autónoma** ofrecidos por el Registro de vacunación frente a COVID-19 (REGVACU).
 
 La población de estudio abarca a toda la población residente en España en el periodo de tiempo comprendido desde la detección del primer caso COVID en el país (31/01/2020), hasta la entrada en vigor de la nueva estategia de vigilancia (01/04/2022) por la que solo se notifican casos en individuos de 60 años o más.<br></br>
-
-
 
 ## 📑 2. Análisis de datos
 
@@ -46,9 +43,9 @@ Los datos se han analizado en base series temporales (evolución) y diagramas de
 
 Se pueden apreciar las oleadas o periodos epidémicos vividos a lo largo de la pandemia en funcion del examen de estos indicadores.
 
-**Fechas** a considerar en el análisis de los datos:<br></br>
+**Fechas** a considerar en el análisis de los datos:
 * **Inicio periodo de estudio** (31 de Enero de 2020). Marcado por la detección del primer caso COVID en España.
-* Fin periodo estudio (28 de marzo de 2022). Actualización de la Estrategia de Vigilancia y Control de la COVID-19, por la que solo se notifican casos en personas de más de 60 años.  
+* **Fin periodo estudio** (28 de marzo de 2022). Actualización de la Estrategia de Vigilancia y Control de la COVID-19, por la que solo se notifican casos en personas de más de 60 años.  
 * **Inicio de la campaña de vacunación** (20 de diciembre de 2021)  
 * **Oleadas**: Hasta el 28 de marzo de 2022 se identificaron en España seis periodos epidémicos de COVID-19:
   - Primer periodo: Desde el 31 de enero hasta el 21 de junio de 2020.
@@ -56,7 +53,7 @@ Se pueden apreciar las oleadas o periodos epidémicos vividos a lo largo de la p
   - Tercer periodo: Desde el 7 de diciembre de 2020 hasta el 14 de marzo de 2021.
   - Cuarto periodo: Desde el 15 de marzo de 2021 hasta el 19 de junio.
   - Quinto periodo: Desde el 20 de junio de 2021 hasta el 13 de octubre.
-  - Sexto periodo: Desde el 14 de octubre de 2021 hasta el 27 de marzo de 2022.
+  - Sexto periodo: Desde el 14 de octubre de 2021 hasta el 27 de marzo de 2022.<br></br>
   
 Para estudiar los datos de la población vacunada hemos tomado cifras de vacunas entregadas a las comunidades autónomas, pero como de acuerdo a los datos el porcentaje de vacunas administradas frente a las entregadas supera el 95% en España, los consideraremos equivalentes.
 
