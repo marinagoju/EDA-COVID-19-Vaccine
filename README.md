@@ -6,7 +6,6 @@ Para ello observaremos la evolucion de la COVID-19 en relación a la campaña de
 Nos preguntamos: *¿Cuáles son los cambios que se aprecian en la curva de evolución de la enfermedad desde que se introducen las nuevas vacunas de ARN mensajero?*<br></br> 
 
 ***¿Por qué un EDA sobre la efectividad de las vacuna contra la COVID-19?***<br></br>
-
 Han pasado más de tres años desde que se diagnosticó el primer caso de COVID-19 en España, por aquel entonces no imaginábamos hasta qué punto se vería amenazado el funcionamiento normal del mundo. Había mucha incertidumbre al respecto, la población se enfrentaba a algo que no podía ver, y se plantearon muchas dudas acerca de su transmisibilidad, cómo evolucionaba y de las medidas sanitarias implantadas para frenar su avance. Incluso aún a día de hoy sigue habiendo cierta incertidumbre sobre la efectividad de las vacunas. 
 
 Por ello, con motivo de arrojar un poco de luz sobre la cuestión y aprovechando la cantidad de datos epidemiológicos publicados por las instituciones de todo el mundo (al ser una enfermedad de declaración obligatoria: EDO), surgió la idea de iniciar este proyecto.<br></br>
