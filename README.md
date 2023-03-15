@@ -6,7 +6,9 @@ Para ello observaremos la evolucion de la COVID-19 en relación a la campaña de
 Nos preguntamos: *¿Cuáles son los cambios que se aprecian en la curva de la pandemia desde el inicio de la administración de las vacunas?*</div>
 
 <br></br> 
-
+<style>Este estudio tiene por objeto valorar la efectividad de la vacuna de ARN mensajero administrada contra el SARS-Cov-2. 
+Para ello observaremos la evolucion de la COVID-19 en relación a la campaña de vacunación implementada en España.    
+Nos preguntamos: *¿Cuáles son los cambios que se aprecian en la curva de la pandemia desde el inicio de la administración de las vacunas?{text-align: justify}</style>
 
 
 ***¿Por qué un EDA sobre la efectividad de las vacuna contra la COVID-19?***<br></br>
