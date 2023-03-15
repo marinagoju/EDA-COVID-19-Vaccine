@@ -49,9 +49,7 @@ Se pueden apreciar las oleadas o periodos epidémicos vividos a lo largo de la p
 **Fechas** a considerar en el análisis de los datos:<br></br>
 * **Inicio periodo de estudio** (31 de Enero de 2020). Marcado por la detección del primer caso COVID en España.
 * Fin periodo estudio (28 de marzo de 2022). Actualización de la Estrategia de Vigilancia y Control de la COVID-19, por la que solo se notifican casos en personas de más de 60 años.  
-* 
 * **Inicio de la campaña de vacunación** (20 de diciembre de 2021)  
-* 
 * **Oleadas**: Hasta el 28 de marzo de 2022 se identificaron en España seis periodos epidémicos de COVID-19:
   - Primer periodo: Desde el 31 de enero hasta el 21 de junio de 2020.
   - Segundo periodo: Desde el 22 de junio hasta el 6 de diciembre de 2020.
@@ -62,7 +60,7 @@ Se pueden apreciar las oleadas o periodos epidémicos vividos a lo largo de la p
   
 Para estudiar los datos de la población vacunada hemos tomado cifras de vacunas entregadas a las comunidades autónomas, pero como de acuerdo a los datos el porcentaje de vacunas administradas frente a las entregadas supera el 95% en España, los consideraremos equivalentes.
 
-Los cálculos de las frecuencias relativas de población vacunada se han hecho sobre la población mayor de 12 años residente en España en 2021, que son los grupos de edad a los que fue dirigida a priori la campaña de vacunación.
+Los cálculos de las frecuencias relativas de población vacunada se han hecho sobre la población mayor de 12 años residente en España en 2021, que son los grupos de edad a los que fue dirigida a priori la campaña de vacunación.<br></br>
 
 ## 📋 3. Resultados generales
 
@@ -77,13 +75,13 @@ Los cálculos de las frecuencias relativas de población vacunada se han hecho s
 - La mayoría de hospitalizados son personas mayores de 80 años de edad.
 - La mayoría de los ingresos en UCI son personas entre 60-69 años de edad.
 - La mayoría de los casos de defunciones son personas mayores de 80 años de edad.
-
+<br></br>
 ## 📋 4. Conclusiones
 A priori podemos aceptar nuestra hipótesis nula, dado que, de acuerdo con los datos, la vacunación ha llevado a un marcado descenso de casos graves (hospitalizados e ingresos en UCI) y de las defunciones entre los casos infectados.
 
 Respecto al poco impacto de la vacuna en lo que respecta a la transmisibilidad de la enfermad, aún se está estudiando el por qué a pesar de la inmunización adquirida el agente logra traspasar las defensas del organismo. Pero todo apunta a que es una cuestión relacionada con los mecanismos de infección del virus.
 
-Según los informes epidemiológicos, las variantes que terminan prevaleciendo son aquellas que presentan una mayor capacidad de escape inmune frente a otras, y por tanto aquellas que son más contagiosas. Pero también las que manifiestan menos gravedad de los casos que contagian, dado que para la propia preservación del agente infeccioso se prima la supervivencia del huésped. 
+Según los informes epidemiológicos, las variantes que terminan prevaleciendo son aquellas que presentan una mayor capacidad de escape inmune frente a otras, y por tanto aquellas que son más contagiosas. Pero también las que manifiestan menos gravedad de los casos que contagian, dado que para la propia preservación del agente infeccioso se prima la supervivencia del huésped.<br></br>
 
 ## 💬 5. Comentarios
 
@@ -92,7 +90,7 @@ También para un futuro, sería un aspecto a considerar, estudiar la campaña de
 
 Entre los sesgos que se identifican en este estudio es que no se hace un análisis simultáneo de las muestras. Estudia la misma población en distintos momentos temporales. Es decir, el control de los casos lo representa la misma población, pero en un estado o momento temporal previo a la vacuna.
 
-A su vez observamos un sesgo en lo que respecta a la detección de los casos dato que se utilizan metodologías de diagnóstico de diferente sensibilidad a lo largo del periodo de estudio. Aunque esto es comprensible dado que, por el carácter de nueva aparición del coronavirus, todos los métodos de diagnóstico se encontraban en proceso experimental.
+A su vez observamos un sesgo en lo que respecta a la detección de los casos dato que se utilizan metodologías de diagnóstico de diferente sensibilidad a lo largo del periodo de estudio. Aunque esto es comprensible dado que, por el carácter de nueva aparición del coronavirus, todos los métodos de diagnóstico se encontraban en proceso experimental.<br></br>
 
 ## ⚙️ 6. Librerías y recursos
 
