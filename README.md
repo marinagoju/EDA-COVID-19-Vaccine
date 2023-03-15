@@ -11,9 +11,9 @@ Han pasado más de tres años desde que se diagnosticó el primer caso de COVID-
 Por ello, con motivo de arrojar un poco de luz sobre la cuestión y aprovechando la cantidad de datos epidemiológicos publicados por las instituciones de todo el mundo (al ser una enfermedad de declaración obligatoria: EDO), surgió la idea de iniciar este proyecto.<br></br>
 
 
-## 1. Metodología de la investigación<br></br>
+## 1. Metodología de la investigación
 
-El estudio que se expone es un estudio de tipo descriptivo retrospectivo, pues nos limitamos a recoger y analizar datos sin influir en el fenómeno de estudio. Asimismo, los datasets sobre los que trabajamos refieren información relativa a momentos anteriores al inicio de su análisis.
+<br></br>El estudio que se expone es un estudio de tipo descriptivo retrospectivo, pues nos limitamos a recoger y analizar datos sin influir en el fenómeno de estudio. Asimismo, los datasets sobre los que trabajamos refieren información relativa a momentos anteriores al inicio de su análisis.
 
 La hipótesis preliminar que se plantea inicialmente es la siguiente:  
 H0: La vacunación de ARNm es efectiva contra el SARS-Cov-2.
@@ -32,9 +32,9 @@ La población de estudio abarca a toda la población residente en España en el 
 
 
 
-## 2. Análisis de datos<br></br>
+## 2. Análisis de datos
 
-Los datos se han analizado en base series temporales
+<br></br>Los datos se han analizado en base series temporales
 
 Indicadores  pronósticos considerados para estudiar de la evolución y situación epidemiológica de la pandemia en consonancia para poder valorar la efectividad de la vacuna son:
 
@@ -51,7 +51,7 @@ Fechas a considerar en el análisis de los datos:
 * 28 de marzo de 2022. Actualización de la Estrategia de Vigilancia y Control contra la COVID-19, por la que solo se informan de aquellos casos en personas de más de 60 años.
 * 20 de diciembre de 2021. Inicio de la campaña de vacunación.
 * Oleadas: Hasta el 28 de marzo de 2022 se identificaron en España seis periodos epidémicos de COVID-19, obtenidos analizando la evolución de las tasas de incidencia en toda la población.
-- Primer periodo: Desde el 31 de enero hasta el 21 de junio de 2020 
+- Primer periodo: Desde el 31 de enero hasta el 21 de junio de 2020
 - Segundo periodo: Desde el 22 de junio hasta el 6 de diciembre de 2020.
 - Tercer periodo: Desde el 7 de diciembre de 2020 hasta el 14 de marzo de 2021
 - Cuarto periodo: Desde el 15 de marzo de 2021 hasta el 19 de junio, 
@@ -59,15 +59,15 @@ Fechas a considerar en el análisis de los datos:
 - Sexto periodo: Desde el 14 de octubre de 2021 hasta el 27 de marzo de 2022, el día previo a la entrada en vigor de la nueva estrategia de Vigilancia.
 
 
-### 3. Conclusiones<br></br>
-A priori podemos aceptar nuestra hipótesis nula, dado que, de acuerdo con los datos, la vacunación ha llevado a un marcado descenso de casos graves (hospitalizados e ingresos en UCI) y de las defunciones entre los casos infectados.
+### 3. Conclusiones
+<br></br>A priori podemos aceptar nuestra hipótesis nula, dado que, de acuerdo con los datos, la vacunación ha llevado a un marcado descenso de casos graves (hospitalizados e ingresos en UCI) y de las defunciones entre los casos infectados.
 
 Respecto al poco impacto de la vacuna en lo que respecta a la transmisibilidad de la enfermad, aún se está estudiando el por qué a pesar de la inmunización adquirida el agente logra traspasar las defensas del organismo. Pero todo apunta a que es una cuestión relacionada con los mecanismos de infección del virus.
 
 Según los informes epidemiológicos. las variantes que terminan prevaleciendo son aquellas que presentan una mayor capacidad de escape inmune frente a otras, y por tanto aquellas que son más contagiosas. Pero también las que manifiestan menos gravedad de los casos que contagian, dado que para la propia preservación del agente infeccioso se prima la supervivencia del huésped. 
 
-### 4. Recursos<br></br>
-
+### 4. Recursos
+<br></br>
 - Tableau Public 2022.4
 - Matplotlib
 - Seaborn
