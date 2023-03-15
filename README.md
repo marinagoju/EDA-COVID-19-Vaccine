@@ -11,7 +11,7 @@ Han pasado más de tres años desde que se diagnosticó el primer caso de COVID-
 Por ello, con motivo de arrojar un poco de luz sobre la cuestión y aprovechando la cantidad de datos epidemiológicos publicados por las instituciones de todo el mundo (al ser una enfermedad de declaración obligatoria: EDO), surgió la idea de iniciar este proyecto.<br></br>
 
 
-## 1. Metodología de la investigación
+## 🔎 1. Metodología de la investigación
 
 El estudio que se expone es un estudio de tipo descriptivo retrospectivo, pues nos limitamos a recoger y analizar datos sin influir en el fenómeno de estudio. Asimismo, los datasets sobre los que trabajamos refieren información relativa a momentos anteriores al inicio de su análisis.
 
@@ -32,7 +32,7 @@ La población de estudio abarca a toda la población residente en España en el 
 
 
 
-## 2. Análisis de datos
+## 📑 2. Análisis de datos
 
 Los datos se han analizado en base series temporales (evolución) y diagramas de barras de frecuencias relativas o absolutas según ha sido conveniente.
 
@@ -62,7 +62,7 @@ Para estudiar los datos de la población vacunada hemos tomado cifras de vacunas
 
 Los calculos de las frecuencias relativas de población vacunada se han hecho sobre la población mayor de 12 años residente en España en 2021, que son los grupos de edad a los que fue dirigida a priori la campaña de vacunación.
 
-## 4. Resultados generales
+## 📋 3. Resultados generales
 
 Sobre la población vacunada:
 - Población vacunada predominantemente con vacunas de ARNm (Pfizer, Moderna). Con distribución no uniforme por grupos de edad.
@@ -76,14 +76,14 @@ Sobre la efectividad de la vacunación:
 - La mayoría de los ingresos en UCI son personas entre 60-69 años de edad.
 - La mayoría de los casos de defunciones son personas mayores de 80 años de edad.
 
-## 3. Conclusiones
+## 📋 4. Conclusiones
 A priori podemos aceptar nuestra hipótesis nula, dado que, de acuerdo con los datos, la vacunación ha llevado a un marcado descenso de casos graves (hospitalizados e ingresos en UCI) y de las defunciones entre los casos infectados.
 
 Respecto al poco impacto de la vacuna en lo que respecta a la transmisibilidad de la enfermad, aún se está estudiando el por qué a pesar de la inmunización adquirida el agente logra traspasar las defensas del organismo. Pero todo apunta a que es una cuestión relacionada con los mecanismos de infección del virus.
 
 Según los informes epidemiológicos, las variantes que terminan prevaleciendo son aquellas que presentan una mayor capacidad de escape inmune frente a otras, y por tanto aquellas que son más contagiosas. Pero también las que manifiestan menos gravedad de los casos que contagian, dado que para la propia preservación del agente infeccioso se prima la supervivencia del huésped. 
 
-## 4. Comentarios
+## 💬 5. Comentarios
 
 Quedó pendiente estandarizar los datos mediante tasas de mortalidad o la incidencia acumulada a 14 días por cada100.000 habitantes para comparar entre distintos datos poblacionales. 
 También para un futuro nos gustaría estudiar la campaña de vacunación por grupos de edad y contrastarlo a su vez con la evolución de la COVID-19 por grupos de edad.
@@ -92,7 +92,7 @@ Entre los sesgos que se identifican en este estudio es que no se hace un anális
 
 A su vez observamos un sesgo en lo que respecta a la detección de los casos dato que se utilizan metodologías de diagnóstico de diferente sensibilidad a lo largo del periodo de estudio. Aunque esto es comprensible dado que, por el carácter de nueva aparición del coronavirus, todos los métodos de diagnóstico se encontraban en proceso experimental.
 
-## 5. Recursos
+## ⚙️ 6. Librerías y recursos
 
 - Tableau Public 2022.4
 - Matplotlib
@@ -101,4 +101,3 @@ A su vez observamos un sesgo en lo que respecta a la detección de los casos dat
 - Selenium
 - BeautifulSoup4
 - Canvas
-
