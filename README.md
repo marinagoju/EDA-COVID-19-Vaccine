@@ -51,7 +51,7 @@ Fechas a considerar en el análisis de los datos:
 * 28 de marzo de 2022. Actualización de la Estrategia de Vigilancia y Control contra la COVID-19, por la que solo se informan de aquellos casos en personas de más de 60 años.
 * 20 de diciembre de 2021. Inicio de la campaña de vacunación.
 * Oleadas: Hasta el 28 de marzo de 2022 se identificaron en España seis periodos epidémicos de COVID-19, obtenidos analizando la evolución de las tasas de incidencia en toda la población.
-- Primer periodo: Desde el 31 de enero hasta el 21 de junio de 2020
+  - Primer periodo: Desde el 31 de enero hasta el 21 de junio de 2020
 - Segundo periodo: Desde el 22 de junio hasta el 6 de diciembre de 2020.
 - Tercer periodo: Desde el 7 de diciembre de 2020 hasta el 14 de marzo de 2021
 - Cuarto periodo: Desde el 15 de marzo de 2021 hasta el 19 de junio, 
