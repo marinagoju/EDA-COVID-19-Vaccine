@@ -16,7 +16,7 @@ Por ello, con motivo de arrojar un poco de luz sobre la cuestión y aprovechando
 El estudio que se expone es un estudio de tipo descriptivo retrospectivo, pues nos limitamos a recoger y analizar datos sin influir en el fenómeno de estudio. Asimismo, los datasets sobre los que trabajamos refieren información relativa a momentos anteriores al inicio de su análisis.
 
 La hipótesis preliminar que se plantea es la siguiente:  
-H: La vacunación de ARNm es efectiva contra el SARS-Cov-2.
+**H 0**: *La vacunación de ARNm es efectiva contra el SARS-Cov-2.*
 
 Los datos utilizados en esta investigación provienen de las estadísticas y reportes publicados por las instituciones oficiales de España. Trabajamos principalmente con cuatro datasets:
 
