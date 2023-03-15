@@ -34,9 +34,9 @@ La población de estudio abarca a toda la población residente en España en el 
 
 ## 2. Análisis de datos
 
-Los datos se han analizado en base series temporales
+Los datos se han analizado en base series temporales (evolución) y diagramas de barras de frecuencias relativas o absolutas según ha sido conveniente.
 
-Indicadores  pronósticos considerados para estudiar de la evolución y situación epidemiológica de la pandemia en consonancia para poder valorar la efectividad de la vacuna son:
+**Indicadores  pronósticos** considerados para estudiar de la evolución y situación epidemiológica de la pandemia en consonancia para poder valorar la efectividad de la vacuna son:
 
 - Incidencia acumulada a 14 días por cada 100.000 habitantes (pendiente)
 - Número de casos nuevos confirmados
@@ -44,12 +44,10 @@ Indicadores  pronósticos considerados para estudiar de la evolución y situaci�
 - Número de ingresos nuevos en UCI.
 - Número de defunciones nuevas. 
 
-Quedó pendiente estandarizar los datos mediante tasas de mortalidad o la incidencia acumulada a 14 días por cada100.000 habitantes para comparar entre núcleos poblacionales
-
-Fechas a considerar en el análisis de los datos:<br></br>
-* 31 de Enero de 2020 (inicio periodo de estudio). Detección del primer caso COVID en España
-* 28 de marzo de 2022 (Fin periodo estudio). Actualización de la Estrategia de Vigilancia y Control de la COVID-19, por la que solo se notifican casos en personas de más de 60 años.
-* 20 de diciembre de 2021. Inicio de la campaña de vacunación.
+**Fechas** a considerar en el análisis de los datos:<br></br>
+* Inicio periodo de estudio (31 de Enero de 2020). Marcado por la detección del primer caso COVID en España.
+* Fin periodo estudio (28 de marzo de 2022). Actualización de la Estrategia de Vigilancia y Control de la COVID-19, por la que solo se notifican casos en personas de más de 60 años.
+* Inicio de la campaña de vacunación (20 de diciembre de 2021)
 * Oleadas: Hasta el 28 de marzo de 2022 se identificaron en España seis periodos epidémicos de COVID-19:
   - Primer periodo: Desde el 31 de enero hasta el 21 de junio de 2020.
   - Segundo periodo: Desde el 22 de junio hasta el 6 de diciembre de 2020.
@@ -66,7 +64,11 @@ Respecto al poco impacto de la vacuna en lo que respecta a la transmisibilidad d
 
 Según los informes epidemiológicos, las variantes que terminan prevaleciendo son aquellas que presentan una mayor capacidad de escape inmune frente a otras, y por tanto aquellas que son más contagiosas. Pero también las que manifiestan menos gravedad de los casos que contagian, dado que para la propia preservación del agente infeccioso se prima la supervivencia del huésped. 
 
-## 4. Recursos
+## 4. Comentarios
+
+Quedó pendiente estandarizar los datos mediante tasas de mortalidad o la incidencia acumulada a 14 días por cada100.000 habitantes para comparar entre distintos datos poblacionales
+
+## 5. Recursos
 
 - Tableau Public 2022.4
 - Matplotlib
@@ -74,5 +76,4 @@ Según los informes epidemiológicos, las variantes que terminan prevaleciendo s
 - Pandas
 - Selenium
 - BeautifulSoup4
-
 
