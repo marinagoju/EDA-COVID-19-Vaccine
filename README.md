@@ -1,5 +1,5 @@
 ![imagen](https://github.com/marinagoju/EDA-COVID-19-Vaccine/blob/main/src/data/vacuna.jpg)
-### <div align="center">***Efectividad de la vacuna de ARNm contra el SARS-Cov-2***</div>
+### <div align="center">**Efectividad de la vacuna de ARNm contra el SARS-Cov-2**</div>
 ***
 En este estudio analizaremos la efectividad de la vacuna de ARNm contra la COVID-19. Para ello estudiaremos la evolucion de la COVID-19 en relación a la campaña de vacunación implementada en España. Nos preguntamos: *¿Cuáles son los cambios que se aprecian desde el inicio de la administración de las vacunas?*  
 
