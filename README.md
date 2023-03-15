@@ -66,7 +66,12 @@ Según los informes epidemiológicos, las variantes que terminan prevaleciendo s
 
 ## 4. Comentarios
 
-Quedó pendiente estandarizar los datos mediante tasas de mortalidad o la incidencia acumulada a 14 días por cada100.000 habitantes para comparar entre distintos datos poblacionales
+Quedó pendiente estandarizar los datos mediante tasas de mortalidad o la incidencia acumulada a 14 días por cada100.000 habitantes para comparar entre distintos datos poblacionales. 
+También para un futuro nos gustaría estudiar la campaña de vacunación por grupos de edad y contrastarlo a su vez con la evolución de la COVID-19 por grupos de edad.
+
+Entre los sesgos que se identifican en este estudio es que no se hace un análisis simultáneo de las muestras. Estudia la misma población en distintos momentos temporales. Es decir, el control de los casos lo representa la misma población, pero en un estado o momento temporal previo a la vacuna.
+
+A su vez observamos un sesgo en lo que respecta a la detección de los casos dato que se utilizan metodologías de diagnóstico de diferente sensibilidad a lo largo del periodo de estudio. Aunque esto es comprensible dado que, por el carácter de nueva aparición del coronavirus, todos los métodos de diagnóstico se encontraban en proceso experimental.
 
 ## 5. Recursos
 
@@ -76,4 +81,5 @@ Quedó pendiente estandarizar los datos mediante tasas de mortalidad o la incide
 - Pandas
 - Selenium
 - BeautifulSoup4
+- Canvas
 
