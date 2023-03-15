@@ -34,7 +34,7 @@ La población de estudio abarca a toda la población residente en España en el 
 
 ## 2. Análisis de datos
 
-<br></br>Los datos se han analizado en base series temporales
+Los datos se han analizado en base series temporales
 
 Indicadores  pronósticos considerados para estudiar de la evolución y situación epidemiológica de la pandemia en consonancia para poder valorar la efectividad de la vacuna son:
 
@@ -59,15 +59,15 @@ Fechas a considerar en el análisis de los datos:
 - Sexto periodo: Desde el 14 de octubre de 2021 hasta el 27 de marzo de 2022, el día previo a la entrada en vigor de la nueva estrategia de Vigilancia.
 
 
-### 3. Conclusiones
-<br></br>A priori podemos aceptar nuestra hipótesis nula, dado que, de acuerdo con los datos, la vacunación ha llevado a un marcado descenso de casos graves (hospitalizados e ingresos en UCI) y de las defunciones entre los casos infectados.
+## 3. Conclusiones
+A priori podemos aceptar nuestra hipótesis nula, dado que, de acuerdo con los datos, la vacunación ha llevado a un marcado descenso de casos graves (hospitalizados e ingresos en UCI) y de las defunciones entre los casos infectados.
 
 Respecto al poco impacto de la vacuna en lo que respecta a la transmisibilidad de la enfermad, aún se está estudiando el por qué a pesar de la inmunización adquirida el agente logra traspasar las defensas del organismo. Pero todo apunta a que es una cuestión relacionada con los mecanismos de infección del virus.
 
 Según los informes epidemiológicos. las variantes que terminan prevaleciendo son aquellas que presentan una mayor capacidad de escape inmune frente a otras, y por tanto aquellas que son más contagiosas. Pero también las que manifiestan menos gravedad de los casos que contagian, dado que para la propia preservación del agente infeccioso se prima la supervivencia del huésped. 
 
-### 4. Recursos
-<br></br>
+## 4. Recursos
+
 - Tableau Public 2022.4
 - Matplotlib
 - Seaborn
