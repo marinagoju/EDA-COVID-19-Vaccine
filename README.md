@@ -8,7 +8,7 @@ La población de estudio abarca a toda la población residente en España en el 
 ## Metodología de la investigación
 dsdsadsadsa
 
-### 2. Análisis de datos  
+## 2. Análisis de datos  
 djsodada
 
 ### 3. Conclusiones  
