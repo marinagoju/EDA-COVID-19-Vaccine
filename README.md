@@ -13,7 +13,7 @@ Por ello, con motivo de arrojar un poco de luz sobre la cuestión y aprovechando
 
 ## 1. Metodología de la investigación
 
-<br></br>El estudio que se expone es un estudio de tipo descriptivo retrospectivo, pues nos limitamos a recoger y analizar datos sin influir en el fenómeno de estudio. Asimismo, los datasets sobre los que trabajamos refieren información relativa a momentos anteriores al inicio de su análisis.
+El estudio que se expone es un estudio de tipo descriptivo retrospectivo, pues nos limitamos a recoger y analizar datos sin influir en el fenómeno de estudio. Asimismo, los datasets sobre los que trabajamos refieren información relativa a momentos anteriores al inicio de su análisis.
 
 La hipótesis preliminar que se plantea inicialmente es la siguiente:  
 H0: La vacunación de ARNm es efectiva contra el SARS-Cov-2.
