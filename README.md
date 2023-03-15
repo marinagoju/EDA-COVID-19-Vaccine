@@ -14,7 +14,7 @@ Por ello, con motivo de arrojar un poco de luz sobre la cuestión y aprovechando
 ## 🔎 1. Metodología de la investigación
 
 El estudio que se expone es un estudio de tipo descriptivo retrospectivo, pues nos limitamos a recoger y analizar datos sin influir en el fenómeno de estudio. Asimismo, los datasets sobre los que trabajamos refieren información relativa a momentos anteriores al inicio de su análisis.<br></br>
-La hipótesis preliminar que se planteó fue la siguiente:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***H0: "La vacunación de ARNm es efectiva contra el SARS-Cov-2"***<br></br>
+La hipótesis preliminar que se planteó fue la siguiente:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp&nbsp***H0: "La vacunación de ARNm es efectiva contra el SARS-Cov-2"***<br></br>
 
 Los datos utilizados en esta investigación provienen de las estadísticas y reportes publicados por las instituciones oficiales de España. Trabajamos principalmente con cuatro datasets:
 
@@ -34,11 +34,11 @@ Los datos se han analizado en base series temporales (evolución) y diagramas de
 
 **Indicadores  pronósticos** considerados para estudiar de la evolución y situación epidemiológica de la pandemia en consonancia para poder valorar la efectividad de la vacuna son:
 
-- Incidencia acumulada a 14 días por cada 100.000 habitantes (pendiente)
-- Número de casos nuevos confirmados
-- Número de casos nuevos de hospitalizaciones por COVID-19.
-- Número de ingresos nuevos en UCI.
-- Número de defunciones nuevas. 
+- **Número de casos nuevos confirmados**.
+- **Número de casos nuevos de hospitalizaciones por COVID-19**.
+- **Número de ingresos nuevos en UCI**.
+- **Número de defunciones nuevas**.
+- Incidencia acumulada a 14 días por cada 100.000 habitantes (pendiente).
 
 Se pueden apreciar las oleadas o periodos epidémicos vividos a lo largo de la pandemia en funcion del examen de estos indicadores.
 
