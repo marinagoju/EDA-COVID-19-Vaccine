@@ -2,7 +2,7 @@
 # <div align="center">**Efectividad de la vacuna de ARNm contra la COVID-19**:syringe:</div>
 
 Este estudio tiene por objeto valorar la efectividad de la vacuna de ARN mensajero administrada contra la COVID-19. 
-Para ello observaremos su evolución en relación a la campaña de vacunación implementada en España.    
+Para ello observaremos su evolución en relación a la campaña de vacunación implementada en España.<br></br>
 Nos preguntamos: *¿Cuáles son los cambios que se aprecian en la curva de evolución de la enfermedad desde que se introducen las nuevas vacunas de ARN mensajero?*<br></br> 
 
 ***¿Por qué un EDA sobre la efectividad de las vacuna contra la COVID-19?***<br></br>
