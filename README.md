@@ -35,7 +35,8 @@ Los datos utilizados en esta investigación provienen de las estadísticas y rep
 
 La población de estudio abarca a toda la población residente en España en el periodo de tiempo comprendido desde la detección del primer caso COVID en el país (31/01/2020), hasta la entrada en vigor de la nueva estategia de vigilancia (01/04/2022) por la que solo se notifican casos en individuos de 60 años o más.<br></br>
 
-## 📑 2. Análisis de datos
+<div id='id2'/>
+<h2> 📑 2. Análisis de datos</h2>
 
 Los datos se han analizado en base series temporales (evolución) y diagramas de barras de frecuencias relativas o absolutas según ha sido conveniente.
 
@@ -65,7 +66,8 @@ Para estudiar los datos de la población vacunada hemos tomado cifras de vacunas
 
 Los cálculos de las frecuencias relativas de población vacunada se han hecho sobre la población mayor de 12 años residente en España en 2021, que son los grupos de edad a los que fue dirigida a priori la campaña de vacunación.<br></br>
 
-## 📋 3. Resultados y observaciones generales
+<div id='id3'/>
+<h2> 📋 3. Resultados y observaciones generales</h2>
 
 **Sobre la población vacunada**:
 - Población vacunada predominantemente con vacunas de ARNm (Pfizer, Moderna). Con distribución no uniforme por grupos de edad.
@@ -79,14 +81,16 @@ Los cálculos de las frecuencias relativas de población vacunada se han hecho s
 - La mayoría de los ingresos en UCI son personas entre 60-69 años de edad.
 - La mayoría de los casos de defunciones son personas mayores de 80 años de edad.<br></br>
 
-## 📋 4. Conclusiones
+<div id='id4'/>
+<h2> 📋 4. Conclusiones</h2>
 A priori podemos aceptar nuestra hipótesis nula, dado que, de acuerdo con los datos, la vacunación ha llevado a un marcado descenso de casos graves (hospitalizados e ingresos en UCI) y de las defunciones entre los casos infectados.
 
 Respecto al poco impacto de la vacuna en lo que respecta a la transmisibilidad de la enfermad, aún se está estudiando el por qué a pesar de la inmunización adquirida el agente logra traspasar las defensas del organismo. Pero todo apunta a que es una cuestión relacionada con los mecanismos de infección del virus.
 
 Según los informes epidemiológicos, las variantes que terminan prevaleciendo son aquellas que presentan una mayor capacidad de escape inmune frente a otras, y por tanto aquellas que son más contagiosas. Pero también las que manifiestan menos gravedad de los casos que contagian, dado que para la propia preservación del agente infeccioso se prima la supervivencia del huésped.<br></br>
 
-## 💬 5. Comentarios del autor
+<div id='id5'/>
+<h2> 💬 5. Comentarios del autor</h2>
 
 Quedó pendiente estandarizar los datos mediante tasas de mortalidad o incidencia acumulada a 14 días por 100.000 habitantes para comparar entre distintas poblaciones. 
 También para un futuro, sería un aspecto a considerar, estudiar la campaña de vacunación por grupos de edad y contrastarlo a su vez con la evolución de la COVID-19 por grupos de edad.
@@ -95,7 +99,8 @@ Entre los sesgos que se identifican en este estudio es que no se hace un anális
 
 A su vez observamos un sesgo en lo que respecta a la detección de los casos dato que se utilizan metodologías de diagnóstico de diferente sensibilidad a lo largo del periodo de estudio. Aunque esto es comprensible dado que, por el carácter de nueva aparición del coronavirus, todos los métodos de diagnóstico se encontraban en proceso experimental.<br></br>
 
-## ⚙️ 6. Librerías y recursos
+<div id='id6'/>
+<h2> ⚙️ 6. Librerías y recursos</h2>
 
 - Tableau Public 2022.4
 - Matplotlib
