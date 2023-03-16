@@ -4,11 +4,11 @@
 Este estudio tiene por objeto valorar la efectividad de la vacuna de ARN mensajero administrada contra la COVID-19. 
 Para ello observaremos su evolución en relación a la campaña de vacunación implementada en España.<br></br>
 Nos preguntamos: *¿Cuáles son los cambios que se aprecian en la curva de evolución de la enfermedad desde que se introducen las nuevas vacunas de ARN mensajero?*<br></br> 
-1. [Metodología de la investigación](#1.-Metodología-de-la-investigación)
+1. [Metodología de la investigación](#-🔎-1.-Metodología-de-la-investigación)
 2. [Análisis de datos](#id2)
 3. [Resultados y observaciones generales](#id3) 
 4. [Conclusiones](#id4)
-5. [Aspectos a considerar](#id5)
+5. [Comentarios del autor](#id5)
 6. [Librerías y recursos](#id6)
 
 ***¿Por qué un EDA sobre la efectividad de las vacuna contra la COVID-19?***<br></br>
@@ -86,7 +86,7 @@ Respecto al poco impacto de la vacuna en lo que respecta a la transmisibilidad d
 
 Según los informes epidemiológicos, las variantes que terminan prevaleciendo son aquellas que presentan una mayor capacidad de escape inmune frente a otras, y por tanto aquellas que son más contagiosas. Pero también las que manifiestan menos gravedad de los casos que contagian, dado que para la propia preservación del agente infeccioso se prima la supervivencia del huésped.<br></br>
 
-## 💬 5. Aspectos a considerar
+## 💬 5. Comentarios del autor
 
 Quedó pendiente estandarizar los datos mediante tasas de mortalidad o incidencia acumulada a 14 días por 100.000 habitantes para comparar entre distintas poblaciones. 
 También para un futuro, sería un aspecto a considerar, estudiar la campaña de vacunación por grupos de edad y contrastarlo a su vez con la evolución de la COVID-19 por grupos de edad.
