@@ -4,6 +4,12 @@
 Este estudio tiene por objeto valorar la efectividad de la vacuna de ARN mensajero administrada contra la COVID-19. 
 Para ello observaremos su evolución en relación a la campaña de vacunación implementada en España.<br></br>
 Nos preguntamos: *¿Cuáles son los cambios que se aprecian en la curva de evolución de la enfermedad desde que se introducen las nuevas vacunas de ARN mensajero?*<br></br> 
+1. [Metodología de la investigación](#id1)
+2. [Análisis de datos](#id2)
+3. [Resultados y observaciones generales](#id3) 
+4. [Conclusiones](#id4)
+5. [Aspectos a considerar](#id5)
+6. [Librerías y recursos](#id6)
 
 ***¿Por qué un EDA sobre la efectividad de las vacuna contra la COVID-19?***<br></br>
 Han pasado más de tres años desde que se diagnosticó el primer caso de COVID-19 en España, por aquel entonces no imaginábamos hasta qué punto se vería amenazado el funcionamiento normal del mundo. Había mucha incertidumbre al respecto, la población se enfrentaba a algo que no podía ver, y se plantearon muchas dudas acerca de su transmisibilidad, cómo evolucionaba y de las medidas sanitarias implantadas para frenar su avance. Incluso aún a día de hoy sigue habiendo cierta incertidumbre sobre la efectividad de las vacunas. 
@@ -59,7 +65,7 @@ Para estudiar los datos de la población vacunada hemos tomado cifras de vacunas
 
 Los cálculos de las frecuencias relativas de población vacunada se han hecho sobre la población mayor de 12 años residente en España en 2021, que son los grupos de edad a los que fue dirigida a priori la campaña de vacunación.<br></br>
 
-## 📋 3. Resultados generales
+## 📋 3. Resultados y observaciones generales
 
 **Sobre la población vacunada**:
 - Población vacunada predominantemente con vacunas de ARNm (Pfizer, Moderna). Con distribución no uniforme por grupos de edad.
@@ -71,8 +77,8 @@ Los cálculos de las frecuencias relativas de población vacunada se han hecho s
 - La mayoría de los casos confirmados son personas entre 40-49 años de edad.
 - La mayoría de hospitalizados son personas mayores de 80 años de edad.
 - La mayoría de los ingresos en UCI son personas entre 60-69 años de edad.
-- La mayoría de los casos de defunciones son personas mayores de 80 años de edad.
-<br></br>
+- La mayoría de los casos de defunciones son personas mayores de 80 años de edad.<br></br>
+
 ## 📋 4. Conclusiones
 A priori podemos aceptar nuestra hipótesis nula, dado que, de acuerdo con los datos, la vacunación ha llevado a un marcado descenso de casos graves (hospitalizados e ingresos en UCI) y de las defunciones entre los casos infectados.
 
