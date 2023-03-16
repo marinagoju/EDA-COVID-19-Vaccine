@@ -16,7 +16,8 @@ Han pasado más de tres años desde que se diagnosticó el primer caso de COVID-
 
 Por ello, con motivo de arrojar un poco de luz sobre la cuestión y aprovechando la cantidad de datos epidemiológicos publicados por las instituciones de todo el mundo (al ser una enfermedad de declaración obligatoria: EDO), surgió la idea de iniciar este proyecto.<br></br>
 
-<div id='id1' />
+<div id='id1'/>
+
 ## 🔎 1. Metodología de la investigación
 
 El estudio que se expone es un estudio de tipo descriptivo retrospectivo, pues nos limitamos a recoger y analizar datos sin influir en el fenómeno de estudio. Asimismo, los datasets sobre los que trabajamos refieren información relativa a momentos anteriores al inicio de su análisis.<br></br>
